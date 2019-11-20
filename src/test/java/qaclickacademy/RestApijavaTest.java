@@ -16,4 +16,16 @@ public void SeleniumTestcaseTwo(){
 
 	}
 
+	public void SeleniumTestcaseThree(){
+		
+		System.out.println("RestApijavaTestcaseTwo");
+
+		}
+	public void SeleniumTestcaseFour(){
+		
+		System.out.println("RestApijavaTestcaseTwo");
+
+		}
+
+
 }
